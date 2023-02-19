@@ -1,14 +1,18 @@
 # New Page
 # – ###### : Heading
 
-# 순서 없는 리스트
+### 순서 없는 리스트
 * version
 * backup
 * collaborate
 
-1, 2, 3 … : 순서 있는 리스트
+### 순서 있는 리스트
+1 version
+2 backup
+3 collaborate
 
-*글씨* : 기울임
+### 글씨 기울임
+*기울어진 글씨*
 
 **글씨** : 굵기
 
